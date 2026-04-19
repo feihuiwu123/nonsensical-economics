@@ -1,4 +1,4 @@
-# 荒谬经济学 (Nonsensical Economics)
+# 无厘头经济学 (Nonsensical Economics)
 
 **[English Version](README_en.md)** | **[中文版本](README.md)**
 
